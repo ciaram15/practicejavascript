@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    align-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+
+
+#homescore
+{
+    display: flex;
+    background-color: #000080;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: space-around;
+    font-size: 150%;
+    align-content: center;
+
+}
+
+#awayscore
+{
+    display: flex;
+    background-color: #000080;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: space-around;
+    font-size: 150%;
+    align-content: center;
+
+}
+
+#buttons
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #blue;
+    color: #white;
+    border: 1px;
+    
+}
